@@ -1,0 +1,7 @@
+#test code
+#import flask
+
+define fun():
+  print "This is a test file"
+  return
+  
